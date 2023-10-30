@@ -1,13 +1,13 @@
-### Hi  👋
+`### Hi  👋
 
 <h1 align="center">Hi 👋, I'm EvanSnowly</h1>
 <h3 align="center">Don't be influenced by others</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evansnowly&label=Profile%20views&color=0e75b6&style=flat" alt="evansnowly" /> </p>
 
-- 📝 I regularly write articles on [evansnowl.github.io](evansnowl.github.io)
+- 📝 I regularly write articles on [https://evansnowly.github.io/](https://evansnowly.github.io/)
 
-- ⚡ Fun fact **sport,game**
+- ⚡ Fun fact **Sport,Game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,5 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evansnowly&show_icons=true&locale=en&layout=compact" alt="evansnowly" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evansnowly&show_icons=true&locale=en" alt="evansnowly" /></p>
-
 
