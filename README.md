@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 &nbsp;<img align=“center” src=“https://github-readme-stats.vercel.app/api?username=evansnowly&show_icons=true&locale=en” alt=“evansnowly” /></p><p><img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=evansnowly&” alt=“evansnowly” /></p>
 
 
-
-
