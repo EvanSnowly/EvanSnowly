@@ -1,4 +1,4 @@
-`### Hi  👋
+### Hi  👋
 
 <h1 align="center">Hi 👋, I'm EvanSnowly</h1>
 <h3 align="center">Don't be influenced by others</h3>
